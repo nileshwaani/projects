@@ -13,7 +13,6 @@ RestPrototype helps you to create prototypes of such RESTful web APIs. Using thi
 |POST /employees                | Create new employee.|
 |PUT /employees/{employeeId}    | Update an existing employee.|
 |DELETE /employees/{employeeId} | Delete employee for given employeeId.|
-{: .tabData }
 
 <br/>
 Feel free to extend the RESTful Prototype adding the features as per your requirements.
