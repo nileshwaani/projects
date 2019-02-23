@@ -8,11 +8,13 @@ As an example, let's say that you want to build an employee management system. T
 
 RestPrototype helps you to create prototypes of such RESTful web APIs. Using this, you can quickly create endpoints like:
 
-|GET /employees                 | Get all employees.|
-|GET /employees/{employeeId}    | Get employee for given employeeId.|
-|POST /employees                | Create new employee.|
-|PUT /employees/{employeeId}    | Update an existing employee.|
-|DELETE /employees/{employeeId} | Delete employee for given employeeId.|
+Request|Comment
+---|---
+GET /employees                 | Get all employees.
+GET /employees/{employeeId}    | Get employee for given employeeId.
+POST /employees                | Create new employee.
+PUT /employees/{employeeId}    | Update an existing employee.
+DELETE /employees/{employeeId} | Delete employee for given employeeId.
 
 <br/>
 Feel free to extend the RESTful Prototype adding the features as per your requirements.
