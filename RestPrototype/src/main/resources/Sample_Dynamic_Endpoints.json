@@ -1,0 +1,81 @@
+[
+    {
+        "url": "employees",
+        "objects": [
+            {
+                "key": 1,
+                "object": {
+                    "employeeId": 1,
+                    "firstName": "James",
+                    "lastName": "Butt",
+                    "dateOfBirth": "01-JAN-1981"
+                }
+            },
+            {
+                "key": 2,
+                "object": {
+                    "employeeId": 2,
+                    "firstName": "Kris",
+                    "lastName": "Marrier",
+                    "dateOfBirth": "02-JAN-1981"
+                }
+            },
+            {
+                "key": 3,
+                "object": {
+                    "employeeId": 3,
+                    "firstName": "Alisha",
+                    "lastName": "Rim",
+                    "dateOfBirth": "03-JAN-1981"
+                }
+            },
+            {
+                "key": 4,
+                "object": {
+                    "employeeId": 4,
+                    "firstName": "Jose",
+                    "lastName": "Perin",
+                    "dateOfBirth": "04-JAN-1981"
+                }
+            }
+        ]
+    },
+    {
+        "url": "departments",
+        "objects": [
+            {
+                "key": 1,
+                "object": {
+                    "departmentId": 1,
+                    "code": "DEV",
+                    "location": "Pune"
+                }
+            },
+            {
+                "key": 2,
+                "object": {
+                    "departmentId": 2,
+                    "code": "QA",
+                    "location": "Pune"
+                }
+            },
+            {
+                "key": 3,
+                "object": {
+                    "departmentId": 3,
+                    "code": "Support",
+                    "location": "NL"
+                }
+            },
+            {
+                "key": 4,
+                "object": {
+                    "departmentId": 4,
+                    "code": "Sales",
+                    "location": "UK"
+                }
+            }
+        ]
+    }
+
+]
